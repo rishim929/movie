@@ -6,7 +6,7 @@ Watching movies.json...
 ♡( ◡‿◡ )
 
 Index:
-http://localhost:3000/
+http://localhost:3000/movies
 
 Static files:
 Serving ./public directory if it exists
